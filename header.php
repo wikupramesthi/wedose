@@ -20,7 +20,7 @@
 <div class="top-bar" id="realEstateMenu">
   <div class="top-bar-left">
     <ul class="menu">
-      <li class="menu-text"><a href="home.php">Wedose</a></li>
+      <li class="menu-text"><a href="index.php">Wedose</a></li>
       <li><a href="#">One</a></li>
       <li><a href="#">Two</a></li>
       <li><a href="#">Three</a></li>
